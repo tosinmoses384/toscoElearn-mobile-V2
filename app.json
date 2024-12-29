@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "7_V2_client_practice-becodemy",
-    "slug": "7_V2_client_practice-becodemy",
+    "name": "7_V2_client_practice_becodemy_appStore",
+    "slug": "7_V2_client_practice_becodemy_appStore",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
